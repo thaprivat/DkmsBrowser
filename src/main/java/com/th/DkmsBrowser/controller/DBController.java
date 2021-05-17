@@ -24,7 +24,7 @@ import com.th.DkmsBrowser.service.DbService;
 
 @Controller
 public class DBController {
-//test
+//test 3
 	List<Db> dbs;
 
 	ArrayList<Db> bruttoKeyList = BruttoKey.createBruttoKeyList();
